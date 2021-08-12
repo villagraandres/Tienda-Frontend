@@ -262,7 +262,7 @@ padding: 1rem;
     transition: background-color .3s ease;
     margin-top: 2rem;
     grid-column: 1/3;
-    width: 400px;
+   
     
 }
 .formulario__camisas{
@@ -279,4 +279,7 @@ min-width: 50%;
     background-color: var(--secundario_oscuro);
 }
 
+@media(min-width: 767){
+    
+}
 
